@@ -1,0 +1,7 @@
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csproj.AssemblyReference.cache
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csproj.CoreCompileInputs.cache
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe.config
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.pdb
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.exe
+E:\programming\group\C#\console\12\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.pdb
